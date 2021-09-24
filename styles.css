@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+  font-size: 1.7rem;
+}
+
+p {
+  font-family: Verdana, sans-serif;
+  font-size 1.2rem;
+}
+
+img {
+  border-radius: 1.2rem;
+}
